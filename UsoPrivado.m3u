@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Mexico",AMX Noticias (720p)
-http://tvpremiumhd.club/lista-gratuita/161210/on/lives.php?id=5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" group-title="Mexico",Canal 10 Cancún (720p)
 http://tvpremiumhd.club/lista-gratuita/161210/on/live.php?id=stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -57,7 +55,7 @@ https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 #EXTINF:-1 tvg-name="Foro Tv" group-title="Noticias", Foro Tv
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-name="AMX Noticias" group-title="Noticias", AMX Noticias
+#EXTINF:-1 tvg-name="AMX Noticias" tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="Noticias", AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w1895446983.m3u8
 
 #EXTINF:0 tvg-id="Orbit" tvg-logo="https://thumbs.subefotos.com/f7c7b7591fbc85b1999f65250069dc95o.jpg" group-title="Cine",Orbit
@@ -74,9 +72,6 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Super Classic" tvg-logo="https://thumbs.subefotos.com/c68c1b3b72b41ab1b13e43135acb5f96o.jpg" group-title="Cine",FM Super Classic
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w87095848.m3u8
-
-#EXTINF:0 tvg-id="Retro Plus" tvg-logo="https://thumbs.subefotos.com/a60a822296f749d2e3ad2913694dff9ao.jpg" group-title="Cine",Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg" group-title="MEXICO", Canal 4 Monclova
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
